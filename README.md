@@ -11,10 +11,7 @@ I'm [Anand Gandhamwar](https://github.com/anandg2009), a passionate web develope
 
 ## My Tech Stack
 
-- Front-end: HTML, CSS, JavaScript, [any other front-end technologies you use]
-- Back-end: [List the programming languages and frameworks you work with]
-- Database: [Specify databases you are comfortable with]
-- Other: [Any additional tools, libraries, or technologies you frequently use]
+- Front-end: HTML, CSS, JavaScript
 
 ## Projects
 
