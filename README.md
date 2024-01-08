@@ -27,8 +27,7 @@ Feel free to explore my repositories to find more!
 ## Connect with Me
 
 - 📧 Email: [anandgandhamwar2009@gmail.com]
-- 🔗 LinkedIn: [www.linkedin.com/in/
-anandg2009]
+- 🔗 LinkedIn: [www.linkedin.com/in/anandg2009]
 
 ## Let's Collaborate!
 
