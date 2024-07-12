@@ -1,17 +1,18 @@
 # Hi there! 👋
 
-I'm [Anand Gandhamwar](https://github.com/anandg2009), a passionate web developer based in Pune. Welcome to my GitHub repository! 🚀
+I'm [Anand Gandhamwar] (https://github.com/anandg2009), a passionate AI enthusiast specializing in Python, Machine Learning, MySQL, Power BI, Statistics, and Frontend Development. 
+I thrive on leveraging data-driven insights to build intelligent solutions that drive business outcomes. 
+Welcome to my GitHub repository! 🚀
 
-## About Me
+## About Me : 🚀 Here's what I bring to the table:
 
-- 🌐 I specialize in front-end and back-end web development.
-- 💻 I'm proficient in languages such as HTML, CSS, JavaScript, and React JS.
-- 🎓 Currently pursuing the degree of Artificial Intelligence.
-- 📱 I enjoy creating responsive and user-friendly web applications.
+- Python: Proficient in building ML models, data analysis, and scripting.
+- Machine Learning: Experience in developing and deploying ML models for various applications.
+- MySQL: Skilled in designing and optimizing databases for efficient data retrieval.
+- Power BI: Able to create interactive visualizations and reports to communicate insights.
+- Statistics: Strong foundation in statistical analysis and hypothesis testing.
+- Frontend Development: Capable of creating responsive and user-friendly interfaces.
 
-## My Tech Stack
-
-- Front-end: HTML, CSS, JavaScript
 
 ## Projects
 
